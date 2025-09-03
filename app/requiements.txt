@@ -1,0 +1,9 @@
+conda create -n ocrenv python=3.10 -y
+conda activate ocrenv
+
+streamlit
+easyocr
+ultralytics
+opencv-python
+pandas
+pillow
