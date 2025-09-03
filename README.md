@@ -91,7 +91,3 @@ streamlit run app.py
 ![Example Detection](train_batch0.jpg)
 
 ------------------------------------------------------------------------
-
-## 📜 License
-
-MIT License -- free to use and modify.
