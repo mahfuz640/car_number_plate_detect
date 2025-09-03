@@ -61,19 +61,19 @@ streamlit run app.py
 
 ### 🔹 Precision-Recall Curve
 
-![PR Curve](images/BoxPR_curve.png)
+![PR Curve](BoxPR_curve.png)
 
 ### 🔹 F1 Curve
 
-![F1 Curve](images/BoxF1_curve.png)
+![F1 Curve](BoxF1_curve.png)
 
 ### 🔹 Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### 🔹 Normalized Confusion Matrix
 
-![Normalized Confusion Matrix](images/confusion_matrix_normalized.png)
+![Normalized Confusion Matrix](confusion_matrix_normalized.png)
 
 ------------------------------------------------------------------------
 
